@@ -30,7 +30,11 @@ git push -f origin brandname
 -------
 6. list ra cac fiole da bi xoa bang tay tren folder
 git rm -r --cached -- "path/to/directory"
-
-7 clone soure tu github
+ clone soure tu github
 git init
 git clone http:ss......
+
+
+
+test nhes
+
