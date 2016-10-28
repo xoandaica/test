@@ -1,0 +1,36 @@
+-- GIT instruction --
+
+-------
+1. Khoi tao mot repo tren local
+git init
+
+2.clone mot repo tư githun
+
+git clone {url_repo}
+
+3.show branch hien tai
+git branch
+
+-------
+2. add / remove file to local repo
+git add/rm filename
+
+-------
+3. show status hien tai cua repo
+git status
+
+-------
+4. commit thay doi len local
+git commit -m "comment"
+
+-------
+5.push thay doi len github tren internet
+git push -f origin brandname
+
+-------
+6. list ra cac fiole da bi xoa bang tay tren folder
+git rm -r --cached -- "path/to/directory"
+
+7 clone soure tu github
+git init
+git clone http:ss......
